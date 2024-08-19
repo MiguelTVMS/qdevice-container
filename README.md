@@ -4,7 +4,7 @@ This repository contains the Dockerfile to build a Docker image for `qdevice`, a
 
 ## Features
 
-- Lightweight image based on `debian:bullseye-slim`.
+- Lightweight image based on Alpine Linux.
 - Easily deployable in any containerized environment.
 - Supports integration with Corosync clusters.
 
