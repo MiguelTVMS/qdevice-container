@@ -1,4 +1,4 @@
-# Qdevice Docker Container Image
+# Qdevice Docker Image
 
 This repository contains the Dockerfile to build a Docker image for `qdevice`, a quorum device utility for Corosync. This Docker image allows you to easily deploy and manage a quorum device in a distributed cluster.
 
